@@ -1,2 +1,4 @@
-print('Hello, world.')
+13
+name = input('Name: ')
+print('Hello, {}!'.format(name))
 
